@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peetter-lautner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in new things, currently I am trying my hand at GO and Rust
+- 🌱 I’m currently learning GO
 
 
 <!---
